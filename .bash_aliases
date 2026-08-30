@@ -1,3 +1,5 @@
+# .bash_aliases
+
 # basic command
 alias l='ls -lt'
 alias la='ls -alt'
